@@ -1,5 +1,6 @@
 📊 TelecomX Challenge - Análisis de Cancelación de Clientes (Churn)  
 
+
 Este proyecto tiene como objetivo analizar y entender las causas detrás de la cancelación de clientes en una compañía de telecomunicaciones, utilizando técnicas de análisis de datos y visualización. A través de este análisis, se busca identificar patrones de comportamiento que permitan reducir la pérdida de clientes y mejorar la fidelización.  
 
 🧰 Herramientas Utilizadas  
